@@ -1,1 +1,1 @@
-<?php include_once("intcal.html"): ?>
+<?php include_once("intcal.html");?>
